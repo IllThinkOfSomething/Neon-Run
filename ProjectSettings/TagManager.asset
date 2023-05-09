@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - IgnoreCollision
+  - Water
+  - UI
+  - Ground
+  - Shots
+  - Player
+  - Bombs
+  - Destructable
+  - Collectables
+  - Triggers
+  - Boss
+  - BossShot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3034135197
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2088804781
+    locked: 0
+  - name: Ground
+    uniqueID: 2626164275
+    locked: 0
